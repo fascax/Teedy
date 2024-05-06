@@ -98,7 +98,7 @@
           <failOnViolation>false</failOnViolation>
           <printFailingErrors>true</printFailingErrors>
           <rulesets>
-            <ruleset>/mnt/e/practice-answer.xml</ruleset>
+            <ruleset>/ruleset.xml</ruleset>
           </rulesets>
         </configuration>
         <executions>
